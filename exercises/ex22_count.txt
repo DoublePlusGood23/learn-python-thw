@@ -1,0 +1,35 @@
+      2 < - Less than symbol
+      1 <= - Less than or equal to 
+     82 = - Sets variable (LEFT) to value (RIGHT)
+      1 > - Greater than symbol
+      1 >= - Greater than or equal to symbol
+     10 - - Subtraction symbol
+      1 , - Joins variables with strings 
+      6 / - Division symbol
+      1 ' - Single string quotes
+      4 " - Double string quotes
+      3 ( - Open paraentheses
+      7 * - Multipication symbol 
+     33 # - Comment symbol # not counted as code
+     41 % - Modulus, lets you access variables in a string from like 'print'. OR it lets you do modulus math (remanders)
+     27 + - Addition symbol 
+      2 += - Short cut for 'x = x + y' 
+     13 argv - Allows you to add arugments (stands for ARGument Variable) like <script> <arg1> <arg2>...
+     11 %d - Used in strings to call a variable like print "%d" % (var)
+     12 def - DEFines a function like 'def funct(var):'
+      1 read() - Function to READ a file
+      1 readline() - READs from a file and stop once it hits a newline (\n)
+      9 from - 'Imports' a library (module) in Python
+      1 seek() - 'Rewinds' the current file to the spified byte.
+      7 import - Loads the specified 'package' from the module, like 'from sys import argv'
+      1 close() - Closes the loaded file after we are done reading/writing
+      1 len() - Gets the length of a value/variable in bytes 
+      1 open() - Lets us open files for reading or writing, you can specify the Read or Writabily with the 'w', 'r', 'a' strings. 
+      1 write() - Writes to files (that you have write perms for))
+    115 print - outputs text to STDO, 'print "<text>"'  
+      3 print_a_line(current_line,
+      1 %r - Raw string ouput modififer thingy, used for debugging.
+      1 raw_input() - Get user input, 'raw_input("<prompt>")'
+     15 %s - String magic modifier thing, also does unicode right.
+      3 \t - Tab escape character.
+      1 truncate() - Truncates a file (deletes all info)
