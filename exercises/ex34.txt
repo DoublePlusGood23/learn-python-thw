@@ -1,0 +1,4 @@
+The animal at 1 is the python and it is the second.
+The third animal is the peacock and is at [2]
+The first animal is at 0 and is the bear.
+the animal at 3 is the kangaroo and it is the fourth.
